@@ -1,2 +1,2 @@
 # hello-world
-toto je můj první repositář tvořím ho v 2.rocniku SSOŠ 1.KŠPA v Litoměřicích
+this is my first repository I create it in the 2nd year of SSOŠ 1.KŠPA in Litoměřice
